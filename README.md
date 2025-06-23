@@ -1,6 +1,6 @@
 # Cartografía: Ciencia, Historia y Tecnología
 
-##¿Qué es la Cartografía?
+## ¿Qué es la Cartografía?
 
 La cartografía es la disciplina que se encarga de la representación gráfica del espacio geográfico. A través de mapas, planos y modelos digitales, permite visualizar fenómenos físicos, sociales y económicos sobre la superficie terrestre.
 
@@ -10,33 +10,33 @@ Desde los mapas babilónicos en tablillas de arcilla hasta los sistemas digitale
 
 ### Tipos de Cartografía
 
-##Cartografía General
+## Cartografía General
 Representa elementos físicos y políticos del territorio. Se usa en mapas escolares, atlas y navegación básica.
 
-##Cartografía Temática
+## Cartografía Temática
 Se enfoca en fenómenos específicos como densidad poblacional, clima, uso del suelo o distribución de recursos.
 
-##Cartografía Topográfica
+## Cartografía Topográfica
 Detalla el relieve del terreno mediante curvas de nivel, altimetría y elementos naturales o artificiales.
 
-###Cartografía y Tecnología
+### Cartografía y Tecnología
 Hoy en día, la cartografía se apoya en herramientas como los Sistemas de Información Geográfica (SIG), sensores remotos, drones y software especializado. Estas tecnologías permiten crear mapas interactivos, tridimensionales y en tiempo real.
 
-##SIG:
+## SIG:
 Integran datos espaciales y alfanuméricos para análisis complejos.
-##Teledetección:
+## Teledetección:
 Usa imágenes satelitales para monitorear cambios en el territorio.
-##Cartografía web:
+## Cartografía web:
 Permite la visualización de mapas en línea, como Google Maps o OpenStreetMap.
 
-###Aplicaciones de la Cartografía
+### Aplicaciones de la Cartografía
 La cartografía es clave en múltiples disciplinas:
 
-##Urbanismo:
+## Urbanismo:
 Planificación de ciudades y servicios.
-##Medio ambiente:
+## Medio ambiente:
 Seguimiento de deforestación, contaminación y biodiversidad.
-##Geopolítica:
+## Geopolítica:
 Análisis de fronteras, conflictos y distribución de recursos.
-##Educación:
+## Educación:
 Enseñanza de geografía y cultura territorial.
