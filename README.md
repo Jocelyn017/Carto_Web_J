@@ -2,7 +2,7 @@
 
 ## ¿Qué es la Cartografía?
 
-La cartografía es la disciplina que se encarga de la representación gráfica del espacio geográfico. A través de mapas, planos y modelos digitales, permite visualizar fenómenos físicos, sociales y económicos sobre la superficie terrestre.
+La cartografía es la ciencia y el arte de crear mapas y representaciones gráficas de la superficie terrestre. Combina conocimientos geográficos, matemáticos y técnicos para trasladar la realidad tridimensional de nuestro planeta a superficies planas, utilizando sistemas de proyección, escalas y símbolos específicos. Desde los primeros mapas dibujados en arcilla hasta los modernos sistemas de información geográfica (SIG) y mapas digitales interactivos, la cartografía ha evolucionado como una herramienta fundamental para la navegación, la planificación territorial, la investigación científica y la comprensión del mundo que nos rodea.
 
 ## Breve Historia de la Cartografía
 
